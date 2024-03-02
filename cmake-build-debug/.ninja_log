@@ -1,0 +1,11 @@
+# ninja log v5
+1	1756	7303634761797254	CMakeFiles/proyecto_compiladores_.dir/main.cpp.obj	6539e65cbba92d95
+1758	2582	7303634770082980	proyecto_compiladores_.exe	b1602ffffa234bb
+2	521	7303667476164980	CMakeFiles/proyecto_compiladores_.dir/main.cpp.obj	6539e65cbba92d95
+521	594	7303667476885134	proyecto_compiladores_.exe	b1602ffffa234bb
+8	1877	7303755167324579	CMakeFiles/proyecto_compiladores_.dir/main.cpp.obj	6539e65cbba92d95
+1877	2810	7303755176666690	proyecto_compiladores_.exe	b1602ffffa234bb
+2	1734	7303757775829522	CMakeFiles/proyecto_compiladores_.dir/main.cpp.obj	6539e65cbba92d95
+1734	2533	7303757783841332	proyecto_compiladores_.exe	b1602ffffa234bb
+2	1776	7303761169905279	CMakeFiles/proyecto_compiladores_.dir/main.cpp.obj	6539e65cbba92d95
+1777	2627	7303761178437205	proyecto_compiladores_.exe	b1602ffffa234bb
